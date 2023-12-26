@@ -1,0 +1,16 @@
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\bin\x64\Debug\net8.0-windows\MovieTicketBooking.exe
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\bin\x64\Debug\net8.0-windows\MovieTicketBooking.deps.json
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\bin\x64\Debug\net8.0-windows\MovieTicketBooking.runtimeconfig.json
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\bin\x64\Debug\net8.0-windows\MovieTicketBooking.dll
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\bin\x64\Debug\net8.0-windows\MovieTicketBooking.pdb
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.Form1.resources
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.csproj.GenerateResource.cache
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.AssemblyInfoInputs.cache
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.AssemblyInfo.cs
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.csproj.CoreCompileInputs.cache
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.dll
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\refint\MovieTicketBooking.dll
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.pdb
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\MovieTicketBooking.genruntimeconfig.cache
+C:\odoo\C#\MovieTicketBooking\MovieTicketBooking\obj\x64\Debug\net8.0-windows\ref\MovieTicketBooking.dll
